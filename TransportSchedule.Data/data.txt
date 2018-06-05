@@ -1,0 +1,26 @@
+﻿# Number or stations, then for each station - Id, Name
+13
+1;West Kensington
+2;Earl's Court
+3;South Kensington
+4;Sloane Square
+5;Hammersmith
+6;Barons Court
+7;High Street Kensington
+8;Edgware Road
+9;Bayswater
+10;Notting Hill Gate
+11;Embankment
+12;London Heathrow
+13;Green Park
+# Number of routes, then for each route:
+# First line - name, start time, end time, interval
+# Second line - ids of stations
+# Third line - intervals between stations in minutes
+2
+Piccadilly line;300;60;5
+12;5;6;2;3;13
+20;2;3;2;10
+District line;360;120;7
+6;1;2;3;11
+2;3;2;10

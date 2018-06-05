@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TransportSchedule.UI\TransportSchedule.Data\bin\Debug\data.txt
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TransportSchedule.UI\TransportSchedule.Data\bin\Debug\TransportSchedule.Data.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TransportSchedule.UI\TransportSchedule.Data\bin\Debug\TransportSchedule.Data.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TransportSchedule.UI\TransportSchedule.Data\bin\Debug\TransportSchedule.Data.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TransportSchedule.UI\TransportSchedule.Data\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TransportSchedule.UI\TransportSchedule.Data\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TransportSchedule.UI\TransportSchedule.Data\obj\Debug\TransportSchedule.Data.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TransportSchedule.UI\TransportSchedule.Data\obj\Debug\TransportSchedule.Data.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\TransportSchedule.UI\TransportSchedule.Data\obj\Debug\TransportSchedule.Data.csprojResolveAssemblyReference.cache
